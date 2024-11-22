@@ -1,8 +1,6 @@
 # Adobe Deactivation Bypass
 
-This simple script allows you to bypass the Adobe Creative Cloud deactivation limit.
-
-Note: This requires a cracked version of the Adobe software to work.
+This simple script allows you to bypass the Adobe deactivation prompt.
 
 Remove this easily with this script:
 
